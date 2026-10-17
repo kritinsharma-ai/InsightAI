@@ -1,0 +1,246 @@
+2026-10-13 23:22:26,639 | INFO | InsightAI pipeline started.
+2026-10-13 23:22:26,646 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-13 23:22:26,663 | INFO | Data quality validation passed.
+2026-10-13 23:22:26,676 | INFO | Product analysis completed.
+2026-10-13 23:22:26,692 | INFO | Category analysis completed.
+2026-10-13 23:22:26,709 | INFO | Analysis reports exported successfully.
+2026-10-13 23:22:26,710 | INFO | InsightAI pipeline completed successfully.
+2026-10-13 23:34:09,277 | INFO | InsightAI pipeline started.
+2026-10-13 23:34:09,282 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-13 23:34:09,298 | INFO | Data quality validation passed.
+2026-10-13 23:34:09,302 | INFO | Product analysis completed.
+2026-10-13 23:34:09,325 | INFO | Category analysis completed.
+2026-10-13 23:34:09,337 | INFO | Analysis reports exported successfully.
+2026-10-13 23:34:09,337 | INFO | InsightAI pipeline completed successfully.
+2026-10-13 23:34:38,896 | INFO | Run started at: 2026-10-13 23:34:38
+2026-10-14 17:33:07,982 | INFO | InsightAI pipeline started.
+2026-10-14 17:33:07,996 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 17:33:08,013 | INFO | Data quality validation passed.
+2026-10-14 17:33:08,019 | INFO | Product analysis completed.
+2026-10-14 17:33:08,034 | INFO | Category analysis completed.
+2026-10-14 17:33:08,047 | INFO | Analysis reports exported successfully.
+2026-10-14 17:33:08,047 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 17:53:27,801 | INFO | InsightAI pipeline started.
+2026-10-14 17:53:27,802 | INFO | Run started at: 2026-10-14 17:53:27
+2026-10-14 17:53:27,814 | INFO | Dataset rows: 5
+2026-10-14 17:53:27,816 | INFO | Dataset columns: 7
+2026-10-14 17:53:27,817 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 17:53:27,845 | INFO | Data quality validation passed.
+2026-10-14 17:53:27,855 | INFO | Product analysis completed.
+2026-10-14 17:53:27,889 | INFO | Category analysis completed.
+2026-10-14 17:53:27,951 | INFO | Analysis reports exported successfully.
+2026-10-14 17:53:27,958 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 17:53:27,969 | INFO | Pipeline duration: 0.17 seconds
+2026-10-14 17:53:27,986 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 17:54:46,181 | INFO | InsightAI pipeline started.
+2026-10-14 17:54:46,182 | INFO | Run started at: 2026-10-14 17:54:46
+2026-10-14 17:54:46,201 | INFO | Dataset rows: 5
+2026-10-14 17:54:46,209 | INFO | Dataset columns: 7
+2026-10-14 17:54:46,211 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 17:54:46,227 | INFO | Data quality validation passed.
+2026-10-14 17:54:46,233 | INFO | Product analysis completed.
+2026-10-14 17:54:46,251 | INFO | Category analysis completed.
+2026-10-14 17:54:46,260 | INFO | Analysis reports exported successfully.
+2026-10-14 17:54:46,261 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 17:54:46,262 | INFO | Pipeline duration: 0.08 seconds
+2026-10-14 17:54:46,262 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:25:45,413 | INFO | InsightAI pipeline started.
+2026-10-14 21:25:45,414 | INFO | Run started at: 2026-10-14 21:25:45
+2026-10-14 21:25:45,427 | INFO | Dataset rows: 5
+2026-10-14 21:25:45,428 | INFO | Dataset columns: 7
+2026-10-14 21:25:45,429 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 21:25:45,467 | INFO | Data quality validation passed.
+2026-10-14 21:25:45,483 | INFO | Product analysis completed.
+2026-10-14 21:25:45,511 | INFO | Category analysis completed.
+2026-10-14 21:25:45,528 | INFO | Analysis reports exported successfully.
+2026-10-14 21:25:45,530 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:25:45,530 | INFO | Pipeline duration: 0.12 seconds
+2026-10-14 21:25:45,537 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:29:02,955 | INFO | InsightAI pipeline started.
+2026-10-14 21:29:02,955 | INFO | Run started at: 2026-10-14 21:29:02
+2026-10-14 21:29:02,964 | INFO | Dataset rows: 5
+2026-10-14 21:29:02,965 | INFO | Dataset columns: 7
+2026-10-14 21:29:02,967 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 21:29:02,986 | INFO | Data quality validation passed.
+2026-10-14 21:29:02,991 | INFO | Product analysis completed.
+2026-10-14 21:29:03,006 | INFO | Category analysis completed.
+2026-10-14 21:29:03,022 | INFO | Analysis reports exported successfully.
+2026-10-14 21:29:03,023 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:29:03,024 | INFO | Pipeline duration: 0.07 seconds
+2026-10-14 21:29:03,024 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:33:33,477 | INFO | InsightAI pipeline started.
+2026-10-14 21:33:33,478 | INFO | Run started at: 2026-10-14 21:33:33
+2026-10-14 21:33:33,487 | INFO | Dataset rows: 5
+2026-10-14 21:33:33,488 | INFO | Dataset columns: 7
+2026-10-14 21:33:33,488 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 21:33:33,498 | INFO | Data quality validation passed.
+2026-10-14 21:33:33,504 | INFO | Product analysis completed.
+2026-10-14 21:33:33,534 | INFO | Category analysis completed.
+2026-10-14 21:33:33,550 | INFO | Analysis reports exported successfully.
+2026-10-14 21:33:33,550 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:33:33,552 | INFO | Pipeline duration: 0.07 seconds
+2026-10-14 21:33:33,554 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:38:07,262 | INFO | InsightAI pipeline started.
+2026-10-14 21:38:07,263 | INFO | Run started at: 2026-10-14 21:38:07
+2026-10-14 21:38:07,269 | INFO | Dataset rows: 5
+2026-10-14 21:38:07,270 | INFO | Dataset columns: 7
+2026-10-14 21:38:07,270 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 21:38:07,276 | INFO | Data quality validation passed.
+2026-10-14 21:38:07,280 | INFO | Product analysis completed.
+2026-10-14 21:38:07,289 | INFO | Category analysis completed.
+2026-10-14 21:38:07,300 | INFO | Analysis reports exported successfully.
+2026-10-14 21:38:07,301 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:38:07,302 | INFO | Pipeline duration: 0.04 seconds
+2026-10-14 21:38:07,302 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:38:50,709 | INFO | InsightAI pipeline started.
+2026-10-14 21:38:50,710 | INFO | Run started at: 2026-10-14 21:38:50
+2026-10-14 21:38:50,717 | INFO | Dataset rows: 5
+2026-10-14 21:38:50,720 | INFO | Dataset columns: 7
+2026-10-14 21:38:50,721 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 21:38:50,733 | INFO | Data quality validation passed.
+2026-10-14 21:38:50,742 | INFO | Product analysis completed.
+2026-10-14 21:38:50,782 | INFO | Category analysis completed.
+2026-10-14 21:38:50,814 | INFO | Analysis reports exported successfully.
+2026-10-14 21:38:50,820 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:38:50,823 | INFO | Pipeline duration: 0.11 seconds
+2026-10-14 21:38:50,827 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:39:55,566 | INFO | InsightAI pipeline started.
+2026-10-14 21:39:55,567 | INFO | Run started at: 2026-10-14 21:39:55
+2026-10-14 21:39:55,576 | INFO | Dataset rows: 5
+2026-10-14 21:39:55,577 | INFO | Dataset columns: 7
+2026-10-14 21:39:55,578 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 21:39:55,590 | INFO | Data quality validation passed.
+2026-10-14 21:39:55,596 | INFO | Product analysis completed.
+2026-10-14 21:39:55,611 | INFO | Category analysis completed.
+2026-10-14 21:39:55,644 | INFO | Analysis reports exported successfully.
+2026-10-14 21:39:55,645 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:39:55,645 | INFO | Pipeline duration: 0.08 seconds
+2026-10-14 21:39:55,646 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:45:17,288 | INFO | InsightAI pipeline started.
+2026-10-14 21:45:17,288 | INFO | Run started at: 2026-10-14 21:45:17
+2026-10-14 21:45:17,298 | INFO | Dataset rows: 5
+2026-10-14 21:45:17,298 | INFO | Dataset columns: 7
+2026-10-14 21:45:17,299 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-14 21:45:17,318 | INFO | Data quality validation passed.
+2026-10-14 21:45:17,328 | INFO | Product analysis completed.
+2026-10-14 21:45:17,354 | INFO | Category analysis completed.
+2026-10-14 21:45:17,371 | INFO | Analysis reports exported successfully.
+2026-10-14 21:45:17,371 | INFO | InsightAI pipeline completed successfully.
+2026-10-14 21:45:17,372 | INFO | Pipeline duration: 0.08 seconds
+2026-10-14 21:45:17,372 | INFO | InsightAI pipeline completed successfully.
+2026-10-16 23:09:59,130 | INFO | InsightAI pipeline started.
+2026-10-16 23:09:59,138 | INFO | Run started at: 2026-10-16 23:09:59
+2026-10-16 23:09:59,144 | INFO | Dataset rows: 5
+2026-10-16 23:09:59,145 | INFO | Dataset columns: 7
+2026-10-16 23:09:59,146 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-16 23:09:59,167 | INFO | Data quality validation passed.
+2026-10-16 23:09:59,178 | INFO | Product analysis completed.
+2026-10-16 23:09:59,200 | INFO | Category analysis completed.
+2026-10-16 23:09:59,215 | INFO | Analysis reports exported successfully.
+2026-10-16 23:09:59,215 | INFO | InsightAI pipeline completed successfully.
+2026-10-16 23:09:59,216 | INFO | Pipeline duration: 0.09 seconds
+2026-10-16 23:09:59,217 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 20:37:34,150 | INFO | InsightAI pipeline started.
+2026-10-17 20:37:34,155 | INFO | Run started at: 2026-10-17 20:37:34
+2026-10-17 20:37:34,223 | INFO | Dataset rows: 5
+2026-10-17 20:37:34,228 | INFO | Dataset columns: 7
+2026-10-17 20:37:34,233 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-17 20:37:34,271 | INFO | Data quality validation passed.
+2026-10-17 20:37:34,289 | INFO | Product analysis completed.
+2026-10-17 20:37:34,323 | INFO | Category analysis completed.
+2026-10-17 20:37:34,346 | INFO | Business insights report generated.
+2026-10-17 20:37:37,428 | INFO | Product and category charts generated.
+2026-10-17 20:37:37,438 | INFO | Analysis reports exported successfully.
+2026-10-17 20:37:37,439 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 20:37:37,440 | INFO | Pipeline duration: 3.29 seconds
+2026-10-17 20:37:37,441 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 21:42:46,880 | INFO | InsightAI pipeline started.
+2026-10-17 21:42:46,881 | INFO | Run started at: 2026-10-17 21:42:46
+2026-10-17 21:42:46,892 | INFO | Dataset rows: 5
+2026-10-17 21:42:46,893 | INFO | Dataset columns: 7
+2026-10-17 21:42:46,893 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-17 21:42:46,907 | INFO | Data quality validation passed.
+2026-10-17 21:42:46,915 | INFO | Product analysis completed.
+2026-10-17 21:42:46,937 | INFO | Category analysis completed.
+2026-10-17 21:42:46,961 | INFO | Excecutive Report Generated Successfully
+2026-10-17 21:42:46,964 | INFO | Business insights report generated.
+2026-10-17 21:42:48,426 | INFO | Product and category charts generated.
+2026-10-17 21:42:48,445 | INFO | Analysis reports exported successfully.
+2026-10-17 21:42:48,447 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 21:42:48,448 | INFO | Pipeline duration: 1.57 seconds
+2026-10-17 21:42:48,449 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 21:45:10,389 | INFO | InsightAI pipeline started.
+2026-10-17 21:45:10,390 | INFO | Run started at: 2026-10-17 21:45:10
+2026-10-17 21:45:10,393 | INFO | Dataset rows: 5
+2026-10-17 21:45:10,394 | INFO | Dataset columns: 7
+2026-10-17 21:45:10,395 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-17 21:45:10,406 | INFO | Data quality validation passed.
+2026-10-17 21:45:10,409 | INFO | Product analysis completed.
+2026-10-17 21:45:10,419 | INFO | Category analysis completed.
+2026-10-17 21:45:10,455 | INFO | Excecutive Report Generated Successfully
+2026-10-17 21:45:10,456 | INFO | Business insights report generated.
+2026-10-17 21:45:11,947 | INFO | Product and category charts generated.
+2026-10-17 21:45:11,964 | INFO | Analysis reports exported successfully.
+2026-10-17 21:45:11,968 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 21:45:11,972 | INFO | Pipeline duration: 1.58 seconds
+2026-10-17 21:45:11,975 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 21:54:49,960 | INFO | InsightAI pipeline started.
+2026-10-17 21:54:49,961 | INFO | Run started at: 2026-10-17 21:54:49
+2026-10-17 21:54:49,965 | INFO | Dataset rows: 5
+2026-10-17 21:54:49,965 | INFO | Dataset columns: 7
+2026-10-17 21:54:49,966 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-17 21:54:49,974 | INFO | Data quality validation passed.
+2026-10-17 21:54:49,984 | INFO | Product analysis completed.
+2026-10-17 21:54:50,000 | INFO | Category analysis completed.
+2026-10-17 21:54:50,007 | INFO | Business insights report generated.
+2026-10-17 21:54:51,694 | INFO | Product and category charts generated.
+2026-10-17 21:54:51,727 | INFO | Executive Report Generated Successfully.
+2026-10-17 21:54:51,728 | INFO | Analysis reports exported successfully.
+2026-10-17 21:54:51,729 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 21:54:51,734 | INFO | Pipeline duration: 1.77 seconds
+2026-10-17 21:54:51,735 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 23:01:45,422 | INFO | InsightAI pipeline started.
+2026-10-17 23:01:45,423 | INFO | Run started at: 2026-10-17 23:01:45
+2026-10-17 23:01:45,430 | INFO | Dataset rows: 5
+2026-10-17 23:01:45,431 | INFO | Dataset columns: 7
+2026-10-17 23:01:45,431 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-17 23:01:45,448 | INFO | Data quality validation passed.
+2026-10-17 23:01:45,456 | INFO | Product analysis completed.
+2026-10-17 23:01:45,471 | INFO | Category analysis completed.
+2026-10-17 23:01:45,479 | INFO | Business insights report generated.
+2026-10-17 23:01:47,492 | INFO | Product and category charts generated.
+2026-10-17 23:01:47,533 | INFO | Executive Report Generated Successfully.
+2026-10-17 23:01:47,534 | INFO | Analysis reports exported successfully.
+2026-10-17 23:01:47,534 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 23:01:47,535 | INFO | Pipeline duration: 2.11 seconds
+2026-10-17 23:01:47,535 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 23:04:01,395 | INFO | InsightAI pipeline started.
+2026-10-17 23:04:01,397 | INFO | Run started at: 2026-10-17 23:04:01
+2026-10-17 23:04:01,417 | INFO | Dataset rows: 5
+2026-10-17 23:04:01,418 | INFO | Dataset columns: 7
+2026-10-17 23:04:01,418 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-17 23:04:01,440 | INFO | Data quality validation passed.
+2026-10-17 23:04:01,451 | INFO | Product analysis completed.
+2026-10-17 23:04:01,474 | INFO | Category analysis completed.
+2026-10-17 23:04:01,483 | INFO | Business insights report generated.
+2026-10-17 23:04:03,160 | INFO | Product and category charts generated.
+2026-10-17 23:04:03,192 | INFO | Executive Report Generated Successfully.
+2026-10-17 23:04:03,193 | INFO | Analysis reports exported successfully.
+2026-10-17 23:04:03,194 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 23:04:03,194 | INFO | Pipeline duration: 1.80 seconds
+2026-10-17 23:04:03,195 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 23:05:24,724 | INFO | InsightAI pipeline started.
+2026-10-17 23:05:24,725 | INFO | Run started at: 2026-10-17 23:05:24
+2026-10-17 23:05:24,734 | INFO | Dataset rows: 5
+2026-10-17 23:05:24,735 | INFO | Dataset columns: 7
+2026-10-17 23:05:24,736 | INFO | Cleaned dataset loaded: novamart_cleaned.csv
+2026-10-17 23:05:24,753 | INFO | Data quality validation passed.
+2026-10-17 23:05:24,761 | INFO | Product analysis completed.
+2026-10-17 23:05:24,781 | INFO | Category analysis completed.
+2026-10-17 23:05:24,789 | INFO | Business insights report generated.
+2026-10-17 23:05:26,284 | INFO | Product and category charts generated.
+2026-10-17 23:05:26,313 | INFO | Executive Report Generated Successfully.
+2026-10-17 23:05:26,313 | INFO | Analysis reports exported successfully.
+2026-10-17 23:05:26,314 | INFO | InsightAI pipeline completed successfully.
+2026-10-17 23:05:26,315 | INFO | Pipeline duration: 1.59 seconds
+2026-10-17 23:05:26,315 | INFO | InsightAI pipeline completed successfully.

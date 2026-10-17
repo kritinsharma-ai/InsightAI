@@ -1,0 +1,18 @@
+
+INSIGHTAI — NOVAMART BUSINESS INSIGHTS
+=====================================
+
+Total Revenue: ₹305,500
+Total Units Sold: 16
+
+Top Product: Laptop — ₹100,000
+Lowest-Revenue Product: Watch — ₹8,000
+Top Category: Electronics — ₹210,000
+
+Business Recommendations
+------------------------
+1. Investigate what drives Laptop's strong revenue performance.
+2. Review pricing, demand, and marketing for Watch.
+3. Prioritize profitable opportunities within the Electronics category.
+
+Note: Revenue alone does not establish product profitability.

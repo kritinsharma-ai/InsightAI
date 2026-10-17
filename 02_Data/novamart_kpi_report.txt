@@ -1,0 +1,14 @@
+
+========== NOVAMART KPI SUMMARY ==========
+
+Business Performance Report
+Data Quality Status: Pass
+Total Revenue: ₹305,500
+Total Units Sold: 16
+Number of Products: 5
+Highest Revenue Product: Laptop
+Lowest Revenue Product: Watch
+Best Revenue Category: Electronics
+
+
+==========================================

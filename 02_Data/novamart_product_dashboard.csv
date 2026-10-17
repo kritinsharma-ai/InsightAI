@@ -1,0 +1,6 @@
+Product,Category,Price,Quantity,Revenue,Revenue_Percentage,Revenue_Rank,Quantity_Rank,Recommended_Action
+Laptop,Electronics,50000.0,2,100000.0,32.733224222585925,1,4,Protect Performance and monitor Demand
+Phone,Electronics,30000.0,3,90000.0,29.45990180032733,2,3,Monitor Sales and explore Growth
+Shoes,Fashion,17500.0,5,87500.0,28.641571194762683,3,1,Monitor Sales and explore Growth
+Headphones,Electronics,5000.0,4,20000.0,6.546644844517186,4,2,"('Investigate pricing', 'demand', 'marketing')"
+Watch,Fashion,4000.0,2,8000.0,2.618657937806874,5,4,"('Investigate pricing', 'demand', 'marketing')"

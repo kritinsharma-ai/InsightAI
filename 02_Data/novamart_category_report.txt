@@ -1,0 +1,18 @@
+"  
+============== NOVAMART CATEGORY REPORT ============
+
+Category Performance Summary 
+
+Best Revenue Category : Electronics
+
+Total Category Revenue : 
+305,500
+
+Category Performance Details:
+             Total_Revenue  Total_Units_Sold  Number_of_Products  Revenue_Contribution_Percent  Performance_Label
+Category                                                                                                         
+Electronics       210000.0                 9                   3                     68.739771  High_Contribution
+Fashion            95500.0                 7                   2                     31.260229   Low_Contribution
+
+
+===================================================================

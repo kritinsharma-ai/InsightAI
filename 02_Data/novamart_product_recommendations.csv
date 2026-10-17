@@ -1,0 +1,6 @@
+Product,Revenue,Revenue_Rank,Recommended_Action
+Laptop,100000.0,1,Protect Performance and monitor Demand
+Phone,90000.0,2,Monitor Sales and explore Growth
+Shoes,87500.0,3,Monitor Sales and explore Growth
+Headphones,20000.0,4,"('Investigate pricing', 'demand', 'marketing')"
+Watch,8000.0,5,"('Investigate pricing', 'demand', 'marketing')"
