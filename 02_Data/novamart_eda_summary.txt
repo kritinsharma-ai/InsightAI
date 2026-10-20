@@ -1,0 +1,42 @@
+INSIGHTAI — NOVAMART EDA SUMMARY
+================================
+
+OVERALL KPIs
+------------
+Unique Orders: 500
+Units Sold: 1,535
+Gross Revenue: ₹18,610,600.00
+Discounts: ₹1,695,195.00
+Net Revenue: ₹16,915,405.00
+
+TOP-PERFORMING PRODUCT
+---------------------
+Laptop: ₹8,197,500.00
+
+TOP-PERFORMING CATEGORY
+-----------------------
+Electronics: ₹14,948,250.00
+
+TOP-PERFORMING REGION
+---------------------
+Central: ₹3,875,810.00
+
+MONTHLY PERFORMANCE
+-------------------
+Best Month: 2025-07
+Best Month Net Revenue: ₹1,787,525.00
+
+Lowest Month: 2025-03
+Lowest Month Net Revenue: ₹1,028,605.00
+
+DATA QUALITY
+------------
+Missing Values: 0
+Duplicate Rows: 0
+Unique Order IDs: 500
+Dataset Rows: 500
+
+NOTE
+----
+This report analyzes simulated NovaMart order data for 2025.
+Revenue is calculated after listed discounts, before costs and taxes.
